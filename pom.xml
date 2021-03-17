@@ -11,6 +11,7 @@
 
     <modules>
         <module>servicebus-spring-integration</module>
+        <module>servicebus-spring-stream-binder</module>
     </modules>
 
 
